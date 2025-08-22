@@ -1,2 +1,1 @@
-# jasma
-e-commerce
+#About my first project on jasma
